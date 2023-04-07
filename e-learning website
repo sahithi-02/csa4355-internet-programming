@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Top-end E-learning Website</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <header>
+      <!-- Navigation bar -->
+      <nav>
+        <ul style="color" #0066cc>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">Pricing</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <!-- Banner -->
+      <div class="banner">
+        <h1>Welcome to Top-end E-learning Website</h1>
+      </div>
+    </header>
+    <!-- Main content -->
+    <main>
+      <!-- Featured courses -->
+      <section class="featured">
+        <h2>Featured Courses</h2>
+        <div class="course">
+          <img src="C:\Users\Rakesh\OneDrive\Desktop\project\img1.jpg" image width="350"image height="250" alt="Course 1">
+
+          <h3>Course 1</h3>
+          <p>Learn python from beginners to advanced .</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+        <div class="course">
+          <img src="C:\Users\Rakesh\OneDrive\Desktop\project\img2.jpg" image width="350"image height="250" alt="Course 2">
+          <h3>Course 2</h3>
+          <p>Learn html in 1 day.</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+        <div class="course">
+          <img src="C:\Users\Rakesh\OneDrive\Desktop\project\img3.jpg" image width="350"image height="250" alt="Course 3">
+          <h3>Course 3</h3>
+          <p>Learn c++ in 1 week.</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+      </section>
+      <!-- Popular courses -->
+      <section class="popular">
+        <h2>Popular Courses</h2>
+        <div class="course">
+          <img src="C:\Users\Rakesh\OneDrive\Desktop\project\img4.jpg" image width="350"image height="250" alt="Course 4">
+          <h3>Course 4</h3>
+          <p>Learn c programing in 1 day.</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+        <div class="course">
+          <img src="C:\Users\Rakesh\OneDrive\Desktop\project\img5.jpg" image width="350"image height="250" alt="Course 5">
+          <h3>Course 5</h3>
+          <p>Learn how to develop a web application.</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+          
+	<section id="about">
+		<div class="container">
+			<h2>About Us</h2>
+			<p> for any thing contact us with the number 9381556505,mrrakeshk420@gmail.com.</p>
+		</div>
+	</section>
+
+	<section id="contact">
+		<div class="container">
+			<h2>for login</h2>
+			<form>
+				<label for="name">Name</label>
+				<input type="text" id="name" name="name" required>
+
+				<label for="email">Email</label>
+				<input type="email" id="email" name="email" required>
+				<html>
